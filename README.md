@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjai</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sanjai2614">
@@ -7,7 +10,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
