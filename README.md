@@ -8,16 +8,18 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai2614&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="sanjai2614's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=sanjai2614&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sanjai2614's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjai2614&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sanjai's GitHub Trophies" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=tokyo-night&radius=10" alt="sanjai2614's Activity Graph" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=github_dark&radius=10" alt="sanjai2614's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
