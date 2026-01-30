@@ -13,8 +13,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai2614&theme=tokyonight&hide_border=true" width="49%" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjai2614&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="sanjai2614's GitHub Stats" width="49%" />
