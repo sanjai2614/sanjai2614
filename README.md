@@ -13,11 +13,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sanjai2614)](https://git.io/streak-stats) -->
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjai2614&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjai2614&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="sanjai2614's GitHub Stats" width="49%" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=tokyo-night&radius=10" alt="sanjai2614's Activity Graph" />
 </p>
