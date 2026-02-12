@@ -44,11 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai2614&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake.svg" />
-</picture>
+<div align="center">
+    
+  ![snake gif](https://github.com/sanjai2614/sanjai2614/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://linkedin.com/in/sanjai2614" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sanjai63698@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
