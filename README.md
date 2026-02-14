@@ -13,7 +13,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sanjai2614)](https://git.io/streak-stats) -->
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjai2614&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
