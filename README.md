@@ -1,54 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sanjai</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!--header -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=170&section=header&text=CHANDRUKUMAR%20C&fontSize=26&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
+  width="100%"
+/>
+
+<!--name -->
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm CHANDRUKUMAR
+</h1>
+
+<h3 align="center">MERN Stack Developer | Building Modern & Scalable Web Applications</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
+<!-- about me -->
+## 👨‍💻 About Me
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+hi 👋 I'm CHANDRUKUMAR, a MERN Stack Developer in progress 🚀  
+
+I'm currently learning and building full stack web applications using:
+
+🟢 MongoDB  
+⚛️ React  
+🟢 Node.js  
+🚂 Express  
+
+💡 Passionate about creating responsive and scalable web apps  
+🌱 Continuously improving my frontend & backend skills  
+🎯 Goal: To become a professional Full Stack Developer  
+
+I love turning ideas into real-world applications through code.
+
+<!-- techs -->
+## 🛠 Techstack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
+</p>
+
+<!-- github stats -->
+## 📊 GitHub Stats
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandru4527&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sanjai2614">
-    <img src="https://komarev.com/ghpvc/?username=sanjai2614&label=Profile%20views&color=00FFFF&style=flat-square" alt="sanjai2614's profile views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandru4527&&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandru4527&&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru4527&&theme=tokyonight" />
+</p>
+
+<h3 align="center">🚀 Most Used Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/CSS-70%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/HTML-60%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/TailwindCSS-35%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Bootstrap-30%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
+
+<!-- contact -->
+## 📬 Contact Me
+<p align="center">
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/r">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://wa.me/91XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-## 📊 GitHub Stats
+<!-- activity -->
+## 📈 Activity
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chandru4527/chandru4527/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjai2614&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=tokyo-night&radius=10" alt="sanjai2614's Activity Graph" />
-</p>
-
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai2614&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<div align="center">
-    
-  ![snake gif](https://github.com/sanjai2614/sanjai2614/blob/output/github-snake-dark.svg)
-</div>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://linkedin.com/in/sanjai2614" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sanjai63698@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-
+<!--footer -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff" 
+  width="100%" 
+/>
