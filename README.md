@@ -62,11 +62,6 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
   <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/snake-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/snake-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/snake-contribution-graph.svg">
-</picture>
 
 <!--footer -->
 <img 
