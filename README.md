@@ -8,10 +8,15 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm SANJAI
 </h1>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sanjai2614">
+    <img src="https://komarev.com/ghpvc/?username=sanjai2614&label=Profile%20views&color=blue&style=flat-square" alt="sanjai2614's profile views" />
+  </a>
+</p>
 <h3 align="center">MERN Stack Developer | Building Modern & Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </p>
 
 ## 👨‍💻 About Me
@@ -34,7 +39,7 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
 
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
 </p>
 
 ---
@@ -53,14 +58,48 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjai2614&theme=tokyonight" />
 </p>
 
+<!-- <p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=tokyonight&radius=6" alt="sanjai2614's Activity Graph" />
+</p> -->
+<h3 align="center">🚀 Most Used Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-70%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/CSS-70%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/HTML-90%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/TailwindCSS-30%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Bootstrap-25%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
+
 ---
 
+<!-- contact -->
+## 📬 Contact Me
+<p align="center">
+  <a href="mailto:sanjai63698@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sanjai2614/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/mr.shinchan18">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 ## 📈 Activity
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake-dark.svg" />
+</p>
+
+
 
 
 <!--footer -->
