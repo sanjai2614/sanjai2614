@@ -58,9 +58,8 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjai2614&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai2614&theme=tokyonight&radius=6" alt="sanjai2614's Activity Graph" />
-</p> -->
+---
+
 <h3 align="center">🚀 Most Used Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
