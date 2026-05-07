@@ -39,7 +39,7 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
 
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,docker,typescript&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,figma,tailwind,bootstrap,docker,typescript&perline=7" />
 </p>
 
 ---
