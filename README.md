@@ -65,7 +65,7 @@ hi 👋 I'm SANJAI, a MERN Stack Developer in progress 🚀
 <img src="https://img.shields.io/badge/JavaScript-80%25-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/CSS-80%25-1a1b27?style=for-the-badge&logo=css&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/HTML-90%25-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/TailwindCSS-80%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/TailwindCSS-90%25-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 <img src="https://img.shields.io/badge/Bootstrap-80%25-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
