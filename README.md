@@ -33,7 +33,6 @@ hi 👋 I'm SANJAI, a MERN Stack Developer
 
 💡 Passionate about creating responsive and scalable web apps  
 🌱 Continuously improving my frontend & backend skills  
-🎯 Goal: To become a professional Full Stack Developer  
 
 ---
 
