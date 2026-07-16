@@ -24,8 +24,6 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-hi 👋 I'm SANJAI, a MERN Stack Developer  
-
 🟢 MongoDB  
 ⚛️ React  
 🟢 Node.js  
