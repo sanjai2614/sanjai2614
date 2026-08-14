@@ -95,9 +95,6 @@
   <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake-dark.svg" />
 </p>
 
-
-
-
 <!--footer -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff" 
