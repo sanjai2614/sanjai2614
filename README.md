@@ -36,7 +36,7 @@
 
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,figma,tailwind,bootstrap,docker,typescript,nextjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,figma,tailwind,bootstrap,docker,typescript,nextjs,firebase&perline=7" />
 </p>
 
 ---
