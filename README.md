@@ -3,7 +3,6 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=170&section=header&text=SANJAI%20C&fontSize=26&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
   width="100%"
 />
-
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm SANJAI
 </h1>
