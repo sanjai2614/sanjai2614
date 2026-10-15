@@ -25,10 +25,10 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-🟢 MongoDB  
 ⚛️ React  
 🟢 Node.js  
 🚂 Express  
+🟢 MongoDB  
 
 💡 Passionate about creating responsive and scalable web apps  
 🌱 Continuously improving my frontend & backend skills  
