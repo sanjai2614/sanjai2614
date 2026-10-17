@@ -84,6 +84,7 @@
   </a>
 </p>
 
+<!-- activity -->
 ## 📈 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanjai2614/sanjai2614/output/github-snake-dark.svg" />
