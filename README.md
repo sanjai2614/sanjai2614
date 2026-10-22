@@ -8,7 +8,6 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm SANJAI
 </h1>
 
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sanjai2614">
     <img src="https://komarev.com/ghpvc/?username=sanjai2614&label=Profile%20views&color=blue&style=flat-square" alt="sanjai2614's profile views" />
