@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | MERN Stack | React.js | Next.js
+  Full Stack Developer | MERN Stack | Python Full Stack 
 </h3>
 
 <p align="center">
