@@ -1,5 +1,4 @@
- 
-<!-- Header -->
+ <!-- Header -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=170&section=header&text=SANJAI%20C&fontSize=28&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=55&fontColor=ffffff"
   width="100%"
